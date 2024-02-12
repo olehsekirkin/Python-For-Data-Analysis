@@ -14,7 +14,5 @@ I expanded what I know and started to master the libraries NumPy, Pandas and Mat
 # What's next
 MatPlotLib graphs maybe require some love, they are explanatory but not so beauty as they are shown right now, still working on it.
 
-# In case you were wondering how is the data jobs market...
-
 
 
