@@ -7,6 +7,10 @@ Exploring and visualizing insights in the data jobs market
 
 numpy, pandas, matplotlib
 
+datajobs mostly matplotlib
+numpypandas numpy and pandas
+morepandas mostly pandas
+
 # What I Learned
 
 a lot matplotlib
