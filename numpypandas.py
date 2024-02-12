@@ -3,7 +3,7 @@ import numpy as np
 import os
 
 # Load the dataset
-df = pd.read_csv('C:\\Users\\olehs\\Desktop\\dataset\\jobs_in_data.csv')
+df = pd.read_csv("C:\\whereveryouhaveit\\jobs_in_data.csv")
 
 # Display the first few rows of the dataset
 print("First few rows of the dataset:")
