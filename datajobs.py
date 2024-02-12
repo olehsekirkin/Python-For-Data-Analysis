@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Read the CSV file into a pandas DataFrame
-df = pd.read_csv("C:\\Users\\olehs\\Desktop\\dataset\\jobs_in_data.csv")
+df = pd.read_csv("C:\\whereveryouhaveit\\jobs_in_data.csv")
 
 # Check the first few rows of the DataFrame
 print(df.head())
