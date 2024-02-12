@@ -73,7 +73,7 @@ plt.show()
 # Company size/analysis
 # Bar chart for the average salary within each employment type
 plt.figure(figsize=(12, 6))
-df.groupby("employment_type")["salary_in_usd"].mean().sort_values().plot(kind="bar", color="lightblue", edgecolor="black")
+df.groupby("employment_type")["salary_in_usd"].mean().sort_values().plot(kind="bar", color="orange", edgecolor="black")
 plt.title("Average Salary Within Each Employment Type")
 plt.xlabel("Employment Type")
 plt.ylabel("Average Salary (USD)")
@@ -101,7 +101,7 @@ plt.show()
 
 # Pie chart for the distribution of employment types
 plt.figure(figsize=(12, 6))
-df["employment_type"].value_counts().plot(kind="barh", color="skyblue")
+df["employment_type"].value_counts().plot(kind="barh", color="skyblue", edgecolor="black")
 plt.title("Distribution of Employment Types")
 plt.ylabel("")
 plt.show()
