@@ -31,7 +31,7 @@ Here we have what I started doing during my first steps (datajobs.py) vs what I 
 </p>
 
 ### 4. 3d.py:
-* Thanks to matplotlib I got to create 3d graphics that I find really interesting and that will further explore since I find them really useful for data story-telling
+* Thanks to matplotlib I got to create 3d graphics that I find interesting and that will further explore since I find them really useful for data story-telling
 
   <p align="center">
   <img src="https://i.imgur.com/dxgdu5O.png" alt="Title" width="650px" height="170px">
