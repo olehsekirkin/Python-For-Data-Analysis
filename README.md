@@ -1,6 +1,11 @@
 # datajobs-insight
 Exploring and visualizing insights in the data jobs market
 
+<p align="center">
+  <img src="https://i.imgur.com/zcpIFfp.jpeg" alt="Title" width="840px" height="120px">
+</p>
+
+
 # Description and getting started 
 This repository is dedicated to exploring and visualizing insights in the data jobs market. The primary focus of the project is to leverage Python libraries such as NumPy, Pandas, Matplotlib and Seaborn for data analysis and visualization. The dataset used for this project is "Jobs and Salaries in Data Science," created by Hummaam Qaasim and available on Kaggle
 
@@ -20,7 +25,16 @@ Won't spoil much but can say that the average salary is around the $150.000 mark
 3. snspractice.py:
 * Here I focused mostly on Seaborn and what this librarie really offers. Went through documentation and videos to understand it and this module is some of the exercises I did to test and improve my understanding of it, for this module I did not use the dataset mentioned above but the ones that the library offers as default (tips, iris and titanic)
 
+Here we have what I started doing during my first steps (datajobs.py) vs what I got to do after some experimentation (snspractice.py)
+<p align="center">
+  <img src="https://i.imgur.com/NOPf3vK.png" alt="Before vs After" width="650px" height="340px">
+</p>
+
+
 # What I Learned
 The project served as an opportunity for me to expand and master the libraries NumPy, Pandas, Matplotlib and Seaborn
 Applied knowledge includes handling data with Pandas, performing operations with NumPy, and creating informative visualizations with Matplotlib/Seaborn
+
+# What's next
+I want to keep improving my data visualization skills while maintaining them clean and informative, so I will keep digging the Matplotlib and Seaborn documentation + going through tutorials to further improve my dexterity using both libraries.
 
