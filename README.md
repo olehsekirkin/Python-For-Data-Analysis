@@ -6,7 +6,7 @@ Exploring and visualizing insights in the data jobs market
 </p>
 
 
-## Description and getting started 
+## Description and getting started
 This repository is dedicated to exploring and visualizing insights in the data jobs market. The primary focus of the project is to leverage Python libraries such as NumPy, Pandas, Matplotlib and Seaborn for data analysis and visualization. The dataset used for this project is "Jobs and Salaries in Data Science," created by Hummaam Qaasim and available on Kaggle
 
 The repository likely includes the necessary scripts, data files, and instructions to run the project locally. Interested users can explore the codebase, run the scripts, and potentially contribute to the ongoing efforts to improve Matplotlib graphs. The key metrics that you can utilize in this .cvs are: work year, job title, job category, salary (included currency, salary and salary in USD), employee residence, experience level, employment type, work setting (in person, remote or hybrid), company location and company size (L for large, M for medium and S for small)
