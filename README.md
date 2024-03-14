@@ -1,5 +1,5 @@
 # datajobs-insight
-Exploring and visualizing insights in the data jobs market
+Exploring and visualizing insights in the data jobs market.
 
 <p align="center">
   <img src="https://i.imgur.com/zcpIFfp.jpeg" alt="Title" width="840px" height="120px">
