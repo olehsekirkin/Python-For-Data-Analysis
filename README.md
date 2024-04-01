@@ -1,4 +1,4 @@
-# datajobs-insight
+# Python for Data Analysis
 Exploring and visualizing insights in the data jobs market.
 
 <p align="center">
