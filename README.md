@@ -23,7 +23,7 @@ Won't spoil much but can say that the average salary is around the $150.000 mark
 * The functionalities implemented in these modules involve data manipulation and analysis using Pandas, showcasing the versatility of the library
 
 ### 3. snspractice.py:
-* Here I focused mostly on Seaborn and what this librarie really offers. Went through documentation and videos to understand it and this module is some of the exercises I did to test and improve my understanding of it, for this module I did not use the dataset mentioned above but the ones that the library offers as default (tips, iris and titanic)
+* Here I focused mostly on Seaborn and what this library really offers. Went through documentation and videos to understand it and this module is some of the exercises I did to test and improve my understanding of it, for this module I did not use the dataset mentioned above but the ones that the library offers as default (tips, iris and titanic)
 
 Here we have what I started doing during my first steps (datajobs.py) vs what I got to do after some experimentation (snspractice.py)
 <p align="center">
