@@ -14,7 +14,7 @@ The repository likely includes the necessary scripts, data files, and instructio
 Won't spoil much but can say that the average salary is around the $150.000 mark, "Data Science and Research" seems to be the most abundant job category (32.2%), and if we look at average salaries the U.S. comes 4th, just behind Qatar, Puerto Rico and Japan.
 
 ### 1. datajobs.py:
-* I applied VERY basic Matplotlib and Seaborn use since I was just trying and learning my first steps towards this two libraries
+* I applied basic Matplotlib and Seaborn use since I was just trying and learning my first steps towards this two libraries
 * This module is primarily directed towards the graphic design aspect of NumPy, Pandas, and Matplotlib libraries
 * It is responsible for creating graphical representations of various aspects of the dataset, such as salary distributions, job categories breakdowns, and geographical distribution of data jobs
 
